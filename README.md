@@ -39,11 +39,8 @@ Ensure you have the following installed:
 - pip package manager
 
 ### Installation Steps
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/anishkax/Tradelens.git
-   cd Tradelens
-   ```
+1. Clone the repository
+ 
 2. Install dependencies manually:
    ```sh
    pip install streamlit alpha_vantage prophet plotly pandas numpy xgboost nltk scikit-learn flask
